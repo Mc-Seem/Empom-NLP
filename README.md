@@ -20,7 +20,7 @@ Features
 
 Demonstration
 -------------
-To see the module *in action*, please investigate [the following notebook](https://github.com/Mc-Seem/Empom-NLP/blob/develop/Clusterizing.ipynb).
+To see the module *in action*, please investigate [the following notebook](https://github.com/Mc-Seem/Empom-NLP/blob/master/demo.ipynb).
 
 File structure
 --------------
